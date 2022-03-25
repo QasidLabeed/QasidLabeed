@@ -22,6 +22,33 @@
 
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
+  
+  ### Languages
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
+![GO](https://img.shields.io/badge/-Go-000?&logo=Go)
+![DART](https://img.shields.io/badge/-Dart-000?&logo=Dart)
+![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+  
+### Technologies
+
+![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
+![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes)
+![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
+![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
+![React](https://img.shields.io/badge/-React-000?&logo=React)
+![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis)
+![Flutter](https://img.shields.io/badge/-Flutter-000?&logo=Flutter)
+![ReactNative](https://img.shields.io/badge/-ReactNative-000?&logo=ReactNative)
+
+### Full Stack Projects
+
+[![](https://img.shields.io/badge/-🧬%20Etheruem%20Explorer-000)](https://sgcblocks.com)
+[![](https://img.shields.io/badge/-📝%20Dashboard‑Tracking%20Charity%20Stellar%20 Blockchain-000)](https://younite.uk/adminpanel/auth/login)
+[![](https://img.shields.io/badge/-📝%20NFT Marketplace-000)](https://birb.co)
 
 <h2> Github Stats  <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px> </h2>
 
