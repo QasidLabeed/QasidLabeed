@@ -1,12 +1,3 @@
-- 👋 Hi, I’m @QasidLabeed
-- 👀 I’m interested in ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-QasidLabeed/QasidLabeed is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 
 <h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
 <p align='center'>
@@ -41,7 +32,7 @@ You can click the Preview link to take a look at your changes.
     <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Qasid's Github Stats" src="https://github-readme-stats.vercel.app/api?username=qasidlabeed&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
 <br/>
   &nbsp;
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aastha12&show_icons=true&locale=en&layout=compact&theme=algolia" alt="aastha12" height="192px"/>
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=qasidlabeed&show_icons=true&locale=en&layout=compact&theme=algolia" alt="Qasid" height="192px"/>
   <br/>
   </p>
 </details>
@@ -50,7 +41,7 @@ You can click the Preview link to take a look at your changes.
 <details>
   <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
-   <a href="https://github.com/aastha12"><img alt="Qasid's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=qasidlabeed&custom_title=Aastha's%20Contribution%20Graph&theme=react-dark" /></a>
+   <a href="https://github.com/qasidlabeed"><img alt="Qasid's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=qasidlabeed&custom_title=Qasid's%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
 
 </details>
