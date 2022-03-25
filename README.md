@@ -23,28 +23,15 @@
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 
-<h2> Github Stats (Expand to View) <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px> </h2>
+<h2> Github Stats  <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px> </h2>
 
-<details> 
-  <summary><b>💻 GitHub Profile Stats</b></summary>
-  <br/>
-  <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Qasid's Github Stats" src="https://github-readme-stats.vercel.app/api?username=qasidlabeed&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
-<br/>
-  &nbsp;
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=qasidlabeed&show_icons=true&locale=en&layout=compact&theme=algolia" alt="Qasid" height="192px"/>
-  <br/>
-  </p>
-</details>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=qasidlabeed&&show_icons=true&include_all_commits=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Sameer's Github Stats" width="60%">
+  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qasidlabeed&show_icons=true&hide_border=true&theme=radical" width="37%" alt="Qasid's Top Languages">
 
-
-<details>
-  <summary><b>⚡ Recent GitHub Activity</b></summary>
-  <br/>
-   <a href="https://github.com/qasidlabeed"><img alt="Qasid's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=qasidlabeed&custom_title=Qasid's%20Contribution%20Graph&theme=react-dark" /></a>
-  <br/>
-
-</details>
+<p align="center">
+    NOTE: Top Languages does not indicate my skill level or anything like that, it's a GitHub metric of which languages have the most code on GitHub. It's a new feature of github-readme-stats.
+</p>
 
 <br/>
 
